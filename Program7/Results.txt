@@ -1,0 +1,8 @@
+Int Selection Sort Time In Milliseconds:     96 | Number of Ints: 20000
+Int Bubble Sort Time In Milliseconds:       564 | Number of Ints: 20000
+Int Collection Sort Time In Milliseconds:     9 | Number of Ints: 20000
+String Bubble Sort Time In Milliseconds:    540 | Number of Strings: 10000
+String Selection Sort Time In Milliseconds: 214 | Number of Strings: 10000
+Insertion Sort Array List Time In Milliseconds: 78 | Number of Strings: 10000
+Insertion Sort Array List Time In Milliseconds: 443 | Number of Strings: 10000
+Insertion Sort Array List String Time In Milliseconds: 225 | Number of Strings: 10000

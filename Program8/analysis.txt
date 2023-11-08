@@ -1,0 +1,20 @@
+BST Analysis: 
+Number of nodes in BST: 10492
+Height of the BST is: 41
+Max possible height: 2147483646
+============================================
+BST Analysis: 
+Number of nodes in BST: 10492
+Height of the BST is: 41
+Max possible height: 2147483646
+============================================
+BST Analysis: 
+Number of nodes in BST: 10492
+Height of the BST is: 41
+Max possible height: 2147483646
+============================================
+BST Analysis: 
+Number of nodes in BST: 10492
+Height of the BST is: 41
+Max possible height: 2147483646
+============================================
