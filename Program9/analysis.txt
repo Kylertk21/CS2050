@@ -1,0 +1,6 @@
+RBT Analysis: 
+Number of duplicates of 'the': 7888
+Number of nodes in RBT: 17
+Height of the RBT is: 17
+Max possible height: 262143
+============================================
