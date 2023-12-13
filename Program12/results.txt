@@ -1,0 +1,19 @@
+Number of Nodes From Program 11: 163415 
+ 
+HashMap Analysis (Default Constructor):
+Time taken (nanoseconds): 194884800
+Size of HashMap: 9290
+Load Factor: 1.0
+============================================
+HashMap Analysis (Initial Capacity: 10000, Load Factor: 0.75):
+Time taken (nanoseconds): 111461800
+Size of HashMap: 9290
+Number of nodes: 163415
+Load Factor: 1.0
+============================================
+HashMap Analysis (Initial Capacity: 20000, Load Factor: 0.75):
+Time taken (nanoseconds): 71805000
+Size of HashMap: 9290
+Number of nodes: 163415
+Load Factor: 1.0
+============================================

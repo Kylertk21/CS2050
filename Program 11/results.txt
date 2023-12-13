@@ -1,0 +1,17 @@
+Hash Table Analysis (Size 999998):
+Load Factor: 0.16341532683065366
+Algorithm Used: hash = (hash * 31 + ASCII(c)) % TABLE_SIZE
+Open Addressing Method Used: Linear Probing 
+============================================
+Hash Table Analysis (Size 999998):
+Load Factor: 0.16341532683065366
+Total Number of Nodes: 163415
+Algorithm Used: hash = (hash * 31 + ASCII(c)) % TABLE_SIZE
+Open Addressing Method Used: Linear Probing 
+============================================
+Hash Table Analysis (Size 999998):
+Load Factor: 0.16341532683065366
+Total Number of Nodes: 163415
+Algorithm Used: hash = (hash * 31 + ASCII(c)) % TABLE_SIZE
+Open Addressing Method Used: Linear Probing 
+============================================
